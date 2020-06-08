@@ -5,7 +5,7 @@
  1) Login to gmail.
  2) Go to setting ( https://www.google.com/settings/security/lesssecureapps)
  3) Allow less secure apps.
- 4) After mail sent you should disable acces. 
+ 4) After mail sent you should disable access. 
 ## Sender must send from google mail
 
 ##info.txt file should contains details like

@@ -1,6 +1,6 @@
 # Mail-Using-Python
 
-## IMPORTANT POINS
+## IMPORTANT POINTS
 ********************
 
 ## In order to use this you should 
